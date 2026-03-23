@@ -40,22 +40,12 @@ The Vice Chair supports the Chair, assumes Chair duties in their absence.
 ## 5. Meetings & Cadence
 ### 5.1 Meeting Schedule
 Each meeting will convene twice to ensure all board members can be present across global timezones. 
-Meeting Type
-Frequency
-Format
-Duration
-Full Board Meeting
-Quarterly (4x/year)
-Video conference
-60 minutes
-Working Group Sessions
-Monthly or as needed
-Video conference
-60 minutes
-Emergency / Ad Hoc
-As required
-Video or async
-As needed
+
+| Meeting Type | Frequency | Format | Duration |
+| ------------ | --------- | -------| ---------|
+| Full Board Meeting | Quarterly (4x/year) | Video conference | 60 minutes |
+| Working Group Sessions | Monthly or as needed | Video conference | 60 minutes |
+| Emergency / Ad Hoc | As required | Video or async | As needed |
 
 
 ### 5.2 Meeting Norms
