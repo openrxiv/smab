@@ -1,9 +1,37 @@
 # openRxiv Scientific Medical and Advisory Board Framework
 
-## 1. About openRxiv
-openRxiv is an open-access preprint platform dedicated to accelerating scientific discovery by making research freely available to the global community. We serve researchers, health professionals , policymakers, funders and the public by providing rapid, transparent, and equitable access to scientific findings across disciplines.
+## 1. About openRxiv Scientific Medical and Advisory Board (SMAB)
+openRxiv is an open-access preprint platform dedicated to accelerating scientific discovery by making research freely available to the global community. We serve researchers, health professionals, policymakers, funders and the public by providing rapid, transparent, and equitable access to scientific findings across disciplines.
 
 The Scientific and Medical Advisory Board (SMAB) is a cornerstone of openRxiv's commitment to scientific rigor, ethical standards, and maintaining community trust. The SMAB provides independent expert guidance to ensure the platform evolves in alignment with the needs of the scientific community and the principles of open science.
+
+### Scientific Medical and Advisory Board Members
+
+The Scientific and Medical Advisory Board serves as a guiding body for openRxiv’s management team, ensuring that the organization’s mission to distribute preprints is informed by expert knowledge and ethical standards. This Board consists of scientists and physician-researchers who represent the community of preprint authors and readers.
+
+| John Inglis PhD,  Co-founder bioRxiv and medRxiv, Cold Spring Harbor Laboratory (Chair) | Theodora Bloom PhD, Co-founder medRxiv, BMJ (Deputy Chair) |
+| ---- | ---- | 
+| Needhi Bhalla PhD, University of California Santa Cruz | Joseph Ross MD, Yale University Medical School |
+| Hopi Hoekstra PhD, Harvard University | Jay Shendure MD, PhD, University of Washington |
+| Wolfgang Huber PhD, European Molecular Biology Laboratory | Shuba Tole PhD, Tata Institute of Fundamental Research |
+| Michael Imperiale PhD, University of Michigan Medical School | Leslie Vosshall PhD, Howard Hughes Medical Institute |
+| Feilim Mac Gabhann PhD, Johns Hopkins Biomedical Engineering | Fiona Watt PhD, European Molecular Biology Organization |
+| Daniel MacArthur PhD, Garvan Institute of Medical Research and Murdoch Children’s Research Institute | Ruiming Xu PhD,  Institute of Biophysics, Chinese Academy of Sciences |
+| Javier Mancilla Galindo MD, Utrecht University |  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 2. Purpose & Scope
 The SMAB exists to:
