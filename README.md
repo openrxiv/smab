@@ -78,8 +78,13 @@ Each meeting will convene twice to ensure all board members can be present acros
 
 ### 5.2 Meeting Norms
 * Agendas and discussion documents distributed at least 7 calendar days in advance.
-* Meeting minutes drafted within 5 business days and approved by the Chair before distribution.
+* Meeting notes drafted within 5 business days and approved by the Chair before distribution.
 * Recordings made available to members only; summaries shared publicly where appropriate.
+
+### 5.3 Meeting Notes
+Meeting notes are shared publicly in the [meeting notes](https://github.com/openrxiv/smab/blob/main/meeting-notes/) directory. 
+
+* [2026 April 08 Meeting Notes](https://github.com/openrxiv/smab/blob/main/meeting-notes/2026-04-08-SMAB-meeting.md)
 
 ## 6. Standing Scientific Working Groups
 openRxiv has the ability to establish Scientific Working Groups when needed. Each Scientific Working Group should include at least one SMAB member and at least one openRxiv staff member. Groups must contain at least 4 members and can include members outside of the SMAB. 
